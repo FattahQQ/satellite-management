@@ -38,7 +38,7 @@ git clone https://github.com/username/satellite-management.git
 cd satellite-management
 ```
 
-2. Install dependencies
+2. Install dependenciesss
 
 ```bash
 composer install
